@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Atualmente estudando PHP e AWS
+- Atualmente estudando PHP, Node e AWS
 - Contato: robertpereira347@gmail.com / https://www.linkedin.com/in/robert-pereira-03/
 
 <div>
